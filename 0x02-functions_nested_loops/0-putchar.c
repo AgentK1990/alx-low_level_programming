@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main - main function
+ * main - Entry point
  *
- * Return: 0 on sucsess.
+ * Return: Always 0
  */
+
 int main(void)
 {
 	_putchar('_');
